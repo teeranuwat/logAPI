@@ -1,0 +1,8 @@
+.env*
+*.env
+test*
+test.*
+tmp/*
+/tmp*
+tmpFiles/
+mockFiles/
